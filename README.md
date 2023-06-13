@@ -18,6 +18,8 @@ GitHub
 N/A
 
 ### Links
+https://github.com/SaikouB/Saikou-portfolio
+https://saikoub.github.io/Saikou-portfolio/
 
 
 ### License
